@@ -1,0 +1,56 @@
+{
+"version": "4.0",
+"lang" : "en",
+"name" : "Kuncianmu",
+"scope" : "https://kuncianmu.blogspot.com/",
+"display" : "fullscreen",
+"start_url" : "https://kuncianmu.blogspot.com/",
+"short_name" : "Kuncianmu",
+"description" : "Kuncianmu",
+"orientation" : "portrait",
+"background_color": "#000000",
+"theme_color": "#000000",
+"generated" : "true",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-oiU_1-PVh68/YTzEUDsl-hI/AAAAAAAAB84/2v-bDJH2SK8lqW8HB8DgBIrIEJVfloFqwCNcBGAsYHQ/s0/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-g1EKgIVqAbs/YTzEi17iz_I/AAAAAAAAB88/fHq-gEX8zF4aopdXfT7JT-WXB-bjCeNkACNcBGAsYHQ/s0/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-CsUOA7XyzB8/YTzEnMvjfkI/AAAAAAAAB9M/BBMb71FtWn0dBa2L5tNC3Bp_lgfgoYuwACNcBGAsYHQ/s0/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-H0sVgY-ceNw/YTzEnAsPfgI/AAAAAAAAB9E/z8Wex6CRRsknYJJdmAuyR2-dwlRDhns5gCNcBGAsYHQ/s0/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-V9nIqsY5KIc/YTzEnPir20I/AAAAAAAAB9I/Vs2ncCuBCf8e0IKWAaCFO2erBCnpE5TUQCNcBGAsYHQ/s0/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-8G1-xlhB050/YTzEn8W5I2I/AAAAAAAAB9Q/oQyFaYXl6xQhKHBDHuXocJMXTSpkhaC8QCNcBGAsYHQ/s0/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-VFhul4LQhSw/YTzEoM_fnRI/AAAAAAAAB9U/wkJ9C9Y9G8k016loN4_3Syt3fPqES0GYQCNcBGAsYHQ/s320/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-fkn9ARTf6FU/YTzEoITf9gI/AAAAAAAAB9Y/Ho3-XC4cVKASsrfBMqWr6IMMe48c3zbPACNcBGAsYHQ/s320/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
